@@ -1,0 +1,31 @@
+/* This is a comment */
+
+p {
+    color:red;
+}
+
+
+table {
+    color:blue;
+}
+
+li {
+    color:purple;
+}
+
+BODY {
+    background-color:rgb(153, 21, 21);
+    margin:25px;
+    font-style:italic;
+}
+
+.myclassselector {
+    font-size:25 px;
+    color:blue;
+}
+
+.Class{
+    color:red;
+}
+
+#myid{color:green;}
